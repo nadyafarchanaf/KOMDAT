@@ -178,5 +178,7 @@ Proses adalah sebagai berikut :
 ## **Cara Pemakaian**
 
 - Tampilan aplikasi web
+
 	Halaman login
-	<img src="h>
+	
+	<img src="Capture.JPG">
