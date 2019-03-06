@@ -68,7 +68,6 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 
 		*jika belum ada unzip*
 		
-			sudo apt install unzip
 			sudo mv mahara-16.04.1 /var/www/html/mahara
 
 		*Create Mahara’s upload directory*
