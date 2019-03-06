@@ -137,11 +137,11 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 # **Konfigurasi**
 [`^ kembali ke atas ^`](#)
 
-**1. Batas upload file**
+1. **Batas upload file**
 
 	Post dan upload size maksimal 50M
 		 
-**2. Plugin**
+2. **Plugin**
 
 	Untuk mengecek version number dari plugin yang terinstal dapat dilakukan dengan menjalankan kode dibawah ini pada command line:
 		 
