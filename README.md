@@ -288,7 +288,7 @@ Menu yang terdapat di Groups antara lain mygroups, find groups, my friends, find
 
 - Fungsi-fungsi utama 
 
-	- Dapat melakukan konfigurasi pengaturan bahasa, tema, virus protocol, dan sebagainya.
+	- Admin dapat melakukan berbagai kegiatan seperti register site, add user, dll
 	- Pemilik akun e-portofolio(mahara) dapat bekerja sama sebagai grup dengan pengguna lain untuk membuat portofolio atau berdiskusi
 	- File repository 
 		-Membuat folder dan sub folder
