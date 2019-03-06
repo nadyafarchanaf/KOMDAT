@@ -283,4 +283,7 @@ Bandingkan dengan aplikasi web kelompok lain yang sejenis
 [Instalasi Mahara](https://lms.onnocenter.or.id/wiki/index.php/Instalasi_Mahara) -OnnoCenterWiki
 
 [System Administrator's Guide/Upgrading Mahara](https://wiki.mahara.org/wiki/System_Administrator%27s_Guide/Upgrading_Mahara) -Wiki Mahara
-	
+
+[Plugin](https://wiki.mahara.org/wiki/Plugins) -Wiki Mahara
+
+
