@@ -161,6 +161,7 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 	- Blocktype Plugins: CalDAVCalendar, Facebook like/recommend,LinkedIn Profile, dan lain-lain
 
 # **Upgrade Mahara**
+[`^ kembali ke atas ^`](#)
 
 Proses adalah sebagai berikut :
 1. Tutup site Mahara
@@ -187,13 +188,14 @@ Proses adalah sebagai berikut :
 
 
 # **Cara Pemakaian**
+[`^ kembali ke atas ^`](#)
 
 - Tampilan aplikasi web
 
-	Halaman login
+	Halaman login 
 	<img src ="home.jpg">
 	
-	
+	Melakukan pengisian data untuk login
 
 	<img src ="1.jpg">
 	
