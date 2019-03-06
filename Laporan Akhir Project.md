@@ -248,6 +248,7 @@ Menu yang terdapat di Groups antara lain mygroups, find groups, my friends, find
 	- Profile Information - Detail informasi mengenai user berupa nama, alamat, nomor siswa, online messenger, dan foto
 
 # **Pembahasan**
+[`^ kembali ke atas ^`](#)
 
 Pendapat anda tentang aplikasi web ini
 
@@ -273,6 +274,8 @@ Bandingkan dengan aplikasi web kelompok lain yang sejenis
 	Canvas mirip dengan moodle, canvas adalah learning management system dimana canvas berbayar dengan free trial selama dua minggu, free unlimited untuk individual, dan berbayar untuk multiple akun. Mahara dapat terintegrasi dengan canvas.
 
 # **Referensi**
+[`^ kembali ke atas ^`](#)
+
 https://www.visigraphic.com/artikel/mahara-open-source-eportfolio-dan-jejaring-social
 
 https://lms.onnocenter.or.id/wiki/index.php/Instalasi_Mahara
