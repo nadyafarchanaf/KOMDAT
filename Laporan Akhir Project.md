@@ -276,7 +276,7 @@ Bandingkan dengan aplikasi web kelompok lain yang sejenis
 # **Referensi**
 [`^ kembali ke atas ^`](#)
 
-[Mahara - Open Source ePortfolio dan Jejaring Social] (https://www.visigraphic.com/artikel/mahara-open-source-eportfolio-dan-jejaring-social)- Visigraphic
+[Mahara - Open Source ePortfolio dan Jejaring Social](https://www.visigraphic.com/artikel/mahara-open-source-eportfolio-dan-jejaring-social)- Visigraphic
 
 https://lms.onnocenter.or.id/wiki/index.php/Instalasi_Mahara
 
