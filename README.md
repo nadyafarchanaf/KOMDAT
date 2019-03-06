@@ -36,6 +36,8 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
     - Update dan upgrade sistem
 
     		sudo apt update
+			sudo apt upgrade
+
     - Install mysql
 
    			sudo apt-get install -y mysql-server
