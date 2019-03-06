@@ -13,7 +13,7 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 # **Instalasi**
 [`^ kembali ke atas ^`](#)
 
- 1. **Kebutuhan Sistem**
+ **1. Kebutuhan Sistem**
 	- Server OS: Ubuntu Linux latest LTS
 	- Apache web server    
 	- PHP (version 5.3.6 atau lebih tinggi lagi)    
@@ -27,7 +27,7 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 		
 		- Disk: Bergantung kepada kouta disk yang dibutuhkan pengguna. Untuk situs dengan 1000 pengguna, masing-masing 250M kouta, maka membutuhkan 50G untuk memulainya.
 
-2. **Langkah instalasi dalam CLI :**
+**2. Langkah instalasi dalam CLI :**
     - Login ke VPS via SSH
 
     		ssh mahara@localhost -p 2222
@@ -135,11 +135,11 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 # **Konfigurasi**
 [`^ kembali ke atas ^`](#)
 
-1. **Batas upload file**
+**1. Batas upload file**
 
 	Post dan upload size maksimal 50M
 		 
-2. **Plugin**
+**2. Plugin**
 
 	Untuk mengecek version number dari plugin yang terinstal dapat dilakukan dengan menjalankan kode dibawah ini pada command line:
 		 
@@ -164,7 +164,7 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 [`^ kembali ke atas ^`](#)
 
 Proses adalah sebagai berikut :
-1. Tutup site Mahara
+1. Tutup site **Mahara**
 	
 2. Saat dilakukan update, direkomendasikan untuk melakukan maintenance mode sehingga pengguna yang sedang login akan otomatis untuk logout
 	
@@ -181,7 +181,7 @@ Proses adalah sebagai berikut :
 	
 		Jika database adalah hasil clone/copy, maka user pemilik database baru haruslah menjadi pemilik file cloning lainnya
 	
-	- Upgrading from site older than one recommended in direct upgrade
+	- Upgrading dari site yang lama kemudian berikan rekomendasi untuk direct upgrade
 	
 		Terdapat file README.md yang menunjukkan versi minimum dari yang seharusnya diupgrade, dan perhatikan juga apakah versi PHP/SQL yang digunakan kompatibel terhadap mahara versi baru atau tidak. 
 6. Open your site
