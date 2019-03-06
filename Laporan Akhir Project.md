@@ -265,18 +265,18 @@ Pendapat anda tentang aplikasi web ini
 	- Beberapa operasi hanya dapat dilakukan dengan cepat dengan merubahnya langsung lewat database.
 	
 Bandingkan dengan aplikasi web kelompok lain yang sejenis
-- Dengan Moodle
+- Dengan **Moodle**
 
-	Moodle digunakan sebagai tempat untuk memberikan informasi(karena moodle adalah learning management system) sedangkan mahara adalah tempat untuk membagikan dan juga sebagai tempat untuk diskusi dimana mahara dapat digunakan untuk memberikan feedback secara peer to peer. Mahara dapat terintegrasi dengan moodle.
+	**Moodle** digunakan sebagai tempat untuk memberikan informasi(karena moodle adalah learning management system) sedangkan **mahara** adalah tempat untuk membagikan dan juga sebagai tempat untuk diskusi dimana **mahara** dapat digunakan untuk memberikan feedback secara peer to peer. **Mahara** dapat terintegrasi dengan **moodle**.
 	
-- Dengan Canvas
+- Dengan **Canvas**
 
-	Canvas mirip dengan moodle, canvas adalah learning management system dimana canvas berbayar dengan free trial selama dua minggu, free unlimited untuk individual, dan berbayar untuk multiple akun. Mahara dapat terintegrasi dengan canvas.
+	**Canvas** mirip dengan **moodle**, **canvas** adalah learning management system dimana **canvas** berbayar dengan free trial selama dua minggu, free unlimited untuk individual, dan berbayar untuk multiple akun. **Mahara** dapat terintegrasi dengan canvas.
 
 # **Referensi**
 [`^ kembali ke atas ^`](#)
 
-https://www.visigraphic.com/artikel/mahara-open-source-eportfolio-dan-jejaring-social
+[Mahara - Open Source ePortfolio dan Jejaring Social] (https://www.visigraphic.com/artikel/mahara-open-source-eportfolio-dan-jejaring-social)- Visigraphic
 
 https://lms.onnocenter.or.id/wiki/index.php/Instalasi_Mahara
 
