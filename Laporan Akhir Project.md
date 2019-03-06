@@ -1,9 +1,18 @@
-# Aplikasi Web "Mahara"
+<img src="Capture.JPG">
 
-## Sekilas Tentang Mahara
+<img src="11.jpg">
+
+[Sekilas Tentang Mahara](#sekilas-tentang-mahara) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Upgrade Mahara](#upgrade-mahara) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
+
+# **Sekilas Tentang Mahara**
+[`^ kembali ke atas ^`](#)
+
 Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jejaring sosial dengan tampilan framework yang fleksibel. Mahara termasuk sebagai aplikasi untuk learning dan course. Mahara dalam bahasa aslinya berarti 'berpikir', Mahara dapat menampilkan dan mengatur e-portfolio dengan lebih mudah dan fleksibel sehingga dapat digunakan untuk pelajar. Mahara memiliki fitur weblog, membangun surat riwayat kerja dan pendidikan dan memiliki sistem jejaring sosial dimana pengguna juga dapat memberikan komen feedback kepada pengguna lain, menghubungkan user dan menciptakan komunitas belajar online.
 
-## **Instalasi**
+# **Instalasi**
+[`^ kembali ke atas ^`](#)
+
  1. **Kebutuhan Sistem**
 	- Server OS: Ubuntu Linux latest LTS
 	- Apache web server    
@@ -123,7 +132,9 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 	
 			http://localhost:8888/htdocs/index.php
 
-## **Konfigurasi**
+# **Konfigurasi**
+[`^ kembali ke atas ^`](#)
+
 1. **Batas upload file**
 
 	Post dan upload size maksimal 50M
@@ -149,7 +160,7 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 	- Search Plugins : Sphinx search
 	- Blocktype Plugins: CalDAVCalendar, Facebook like/recommend,LinkedIn Profile, dan lain-lain
 
-## **Upgrade Mahara**
+# **Upgrade Mahara**
 
 Proses adalah sebagai berikut :
 1. Tutup site Mahara
@@ -175,10 +186,21 @@ Proses adalah sebagai berikut :
 6. Open your site
 
 
-## **Cara Pemakaian**
+# **Cara Pemakaian**
 
 - Tampilan aplikasi web
 
 	Halaman login
+	<img src ="home.jpg">
 	
-	<img src="Capture.JPG">
+	
+
+	<img src ="1.jpg">
+	
+	Jika login sebagai admin, maka akan masuk ke halaman seperti ini:
+	
+	<img src= "2.jpg">
+	
+	
+	
+	
