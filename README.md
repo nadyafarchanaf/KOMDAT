@@ -191,7 +191,7 @@ Proses adalah sebagai berikut :
 # **Otomatisasi**
 [`^ kembali ke atas ^`](#)
 
-Selain melalui server ubuntu, instalasi dapat dilakukan langsung pada website mahara, berikut ini adalah langkah-langkah untuk proses instalasinya:
+Selain melalui server ubuntu, instalasi dapat dilakukan langsung dengan XAMPP pada Windows, berikut ini adalah langkah-langkah untuk proses instalasinya:
 1. Kunjungi mahara.org
 
 	Laman awal website:
@@ -214,7 +214,7 @@ Selain melalui server ubuntu, instalasi dapat dilakukan langsung pada website ma
 
 8. Pada phpmyadmin, buatlah database baru dengan nama db_mahara dengan connection collation: utf8_bin. Setelah itu klik tombol Create. Lihat gambar dibawah ini:
 
-<h1 align="center"><img src="ss.JPG"></h>
+<h1 align="center"><img src="ss.JPG"></h1>
 
 9. Cari file config-dist.php
 
@@ -232,12 +232,15 @@ Selain melalui server ubuntu, instalasi dapat dilakukan langsung pada website ma
 12. Kemudian carilah file php.ini pada alamat directory C:\xampp\php.
 
 13. Didalam file php.ini, carilah script berikut: extension=php_curl.dll. Hilangkan tanda titik koma (;) di awal script tersebut. Kemudian simpan (Ctrl+S)
+
 14. Setelah itu, jalankan web browser. Ketikkan alamat URL : http://localhost/mahara.
 
 15. Tunggu hingga semua komponen plugin terinstall semua
 
 16. Isikan password dan email, Kemudian klik Submit
+
 17. Kemudian tampil halaman seperti dibawah ini
+
 # **Cara Pemakaian**
 [`^ kembali ke atas ^`](#)
 
