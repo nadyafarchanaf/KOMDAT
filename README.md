@@ -2,8 +2,8 @@
 
 <img src="11.JPG">
 
-[Sekilas Tentang Mahara](#sekilas-tentang-mahara) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Upgrade Mahara](#upgrade-mahara) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+[Sekilas Tentang Mahara](#sekilas-tentang-mahara) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Upgrade Mahara](#upgrade-mahara) | [Cara Pemakaian](#cara-pemakaian) | [Otomatisasi](#otomatisasi) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # **Sekilas Tentang Mahara**
 [`^ kembali ke atas ^`](#)
@@ -24,9 +24,9 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 	
 		- CPU: Semakin cepat CPU kinerja semakin baik. PHP bergantung pada performa CPU maka semakin cepat CPU waktu respon akan semakin cepat.
 		
-		- Memory: 256MB pada absolute m 1G atau lebih sangat disarankan.
+		- Memory: 256MB pada absolute m 1GB atau lebih sangat disarankan.
 		
-		- Disk: Bergantung kepada kouta disk yang dibutuhkan pengguna. Untuk situs dengan 1000 pengguna, masing-masing 250M kouta, maka membutuhkan 50G untuk memulainya.
+		- Disk: Bergantung kepada kouta disk yang dibutuhkan pengguna. Untuk situs dengan 1000 pengguna, masing-masing 250MB kouta, maka membutuhkan 50GB untuk memulainya.
 
 2. **Langkah instalasi dalam CLI :**
 
@@ -139,7 +139,7 @@ Mahara adalah aplikasi online open-source yang terdiri dari e-portfolio dan jeja
 
 1. **Batas upload file**
 
-	Post dan upload size maksimal 50M
+	Post dan upload size maksimal 50MB
 		 
 2. **Plugin**
 
@@ -188,6 +188,22 @@ Proses adalah sebagai berikut :
 		Terdapat file README.md yang menunjukkan versi minimum dari yang seharusnya diupgrade, dan perhatikan juga apakah versi PHP/SQL yang digunakan kompatibel terhadap mahara versi baru atau tidak. 
 6. Open your site
 
+# **Otomatisasi**
+[`^ kembali ke atas ^`](#)
+
+Selain melalui server ubuntu, instalasi dapat dilakukan langsung pada website mahara, berikut ini adalah langkah-langkah untuk proses instalasinya:
+1. Kunjungi mahara.org
+
+	Laman awal website:
+
+<h1 align="center"><img src="Capture.JPG"></h1>
+
+2. Klik tombol download mahara versi terbaru
+	 
+<img src="q.JPG">
+
+3. Silahkan tunggu sampai file download selesai
+4. 
 
 # **Cara Pemakaian**
 [`^ kembali ke atas ^`](#)
