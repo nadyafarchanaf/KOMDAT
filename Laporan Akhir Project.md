@@ -1,6 +1,6 @@
 <img src="Capture.JPG">
 
-<img src="11.jpg">
+<img src="11.JPG">
 
 [Sekilas Tentang Mahara](#sekilas-tentang-mahara) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Upgrade Mahara](#upgrade-mahara) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
