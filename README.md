@@ -1,4 +1,4 @@
-<img src="Capture.JPG">
+<h1 align="center"><img src="https://blog.yorksj.ac.uk/moodle/files/2017/07/mahara.png"></h1>
 
 <img src="11.JPG">
 
