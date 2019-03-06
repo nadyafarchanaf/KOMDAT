@@ -278,7 +278,7 @@ Bandingkan dengan aplikasi web kelompok lain yang sejenis
 
 [Mahara - Open Source ePortfolio dan Jejaring Social](https://www.visigraphic.com/artikel/mahara-open-source-eportfolio-dan-jejaring-social)- Visigraphic
 
-https://lms.onnocenter.or.id/wiki/index.php/Instalasi_Mahara
+[Instalasi Mahara](https://lms.onnocenter.or.id/wiki/index.php/Instalasi_Mahara) -OnnoCenterWiki
 
-https://wiki.mahara.org/wiki/System_Administrator%27s_Guide/Upgrading_Mahara
+[System Administrator's Guide/Upgrading Mahara](https://wiki.mahara.org/wiki/System_Administrator%27s_Guide/Upgrading_Mahara) -Wiki Mahara
 	
