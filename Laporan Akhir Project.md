@@ -203,6 +203,79 @@ Proses adalah sebagai berikut :
 	
 	<img src= "2.jpg">
 	
+	Create and Collect: membuat portfolio baru
 	
+	Share: Menampilkan portofolio
 	
+	Engage: Menghubungkan dengan teman dan bergabung dengan grup.
+	
+- Default Dashboard menampilkan :
+    Latest Pages
+    My Pages
+    Recent Activity
+    Topics I’m Following
+    
+- Content
+
+	Menyimpan semua yang dapat pengguna buat atau unggah untuk digunakan dalam portofolio. Semua informasi dan file yang diberikan di sini pada awalnya hanya dapat dilihat oleh pengguna. Kecuali nama pengguna dan foto profil Anda, keduanya terlihat oleh pengguna online jika diaktifkan. Nama tampilan Anda, tetapi bukan gambar profil Anda, juga terlihat di halaman profil Anda per default.
+Konten berisi foto profil, files, journal, resume, plans
+
+- Portofolio
+
+	Portofolio adalah tempat untuk mengumpulkan ‘artefak’ yang telah dikumpulkan pada halaman content. anda dapat memilih untuk membagikannya ke pengguna lain atau menyimpan untuk sendiri.
+Menu yang ada di portofolio antara lain pages, page editor, collections, share, export, feedback, feedback or assessment, dan tags.
+
+- Groups
+
+	Group dapat digunakan untuk berkolaborasi sesama user, dapat digunakan untuk diskusi topik, membuat atau mengedit page bersama-sama, berbagi file, berbagi page, dan submit page.
+Menu yang terdapat di Groups antara lain mygroups, find groups, my friends, find friends, share page, dan topics.
+
+- Administrasions
+
+- Fungsi-fungsi utama 
+
+	- Dapat melakukan konfigurasi pengaturan bahasa, tema, virus protocol, dan sebagainya.
+	- Pemilik akun e-portofolio(mahara) dapat bekerja sama sebagai grup dengan pengguna lain untuk membuat portofolio atau berdiskusi
+	- File repository 
+		-Membuat folder dan sub folder
+		- Mengunggah beberapa files secara cepat dan efisien
+		- Memberi nama dan deskripsi pada masing-masing file
+		- Mengelola kuota alokasi file 
+		- Saat mengunggah suatu file,terdapat persetujuan disclaimer atau spesifik lisensi informasi.
+		- Dapat meng-extract .zip, .tar.gz, dan tar.bz2 dari dalam area file.
+	- Blogs - membuat blog pribadi
+	- Social Networking - untuk membentuk suatu komunitas dan berbagi ePortfolio ke pengguna yang telah mendapat izin.
+	- Profile Information - Detail informasi mengenai user berupa nama, alamat, nomor siswa, online messenger, dan foto
+
+# **Pembahasan**
+
+Pendapat anda tentang aplikasi web ini
+
+- pros:
+	- Mudah untuk dibagikan ke pengguna lain
+	- Dapat menambahkan umpan balik atau feedback ke halaman e-portofolio dan fitur penilaian dengan bintang yang efektif
+	- Dapat membuat portofolio yang saling terhubung 
+	- Sangat baik untuk portofolio dengan visualisasi yang baik, mahara dapat disematkan berbagai fitur yang dapat diputar di layar misalnya YouTube, SlideShare, GoogleDocs dll
+	- Dapat menambahkan teks, gambar, video, suara, URL, dan HTML
+- cons:
+	- Pengguna tidak dapat menghapus komen feedback yang sudah diberikan
+	- Untuk backup data hanya dengan cara mengekspor
+	- Tidak ada recycle bin, tidak dapat di undo pekerjaan yang sudah dilakukan
+	- Beberapa operasi hanya dapat dilakukan dengan cepat dengan merubahnya langsung lewat database.
+	
+Bandingkan dengan aplikasi web kelompok lain yang sejenis
+- Dengan Moodle
+
+	Moodle digunakan sebagai tempat untuk memberikan informasi(karena moodle adalah learning management system) sedangkan mahara adalah tempat untuk membagikan dan juga sebagai tempat untuk diskusi dimana mahara dapat digunakan untuk memberikan feedback secara peer to peer. Mahara dapat terintegrasi dengan moodle.
+	
+- Dengan Canvas
+
+	Canvas mirip dengan moodle, canvas adalah learning management system dimana canvas berbayar dengan free trial selama dua minggu, free unlimited untuk individual, dan berbayar untuk multiple akun. Mahara dapat terintegrasi dengan canvas.
+
+# **Referensi**
+https://www.visigraphic.com/artikel/mahara-open-source-eportfolio-dan-jejaring-social
+
+https://lms.onnocenter.or.id/wiki/index.php/Instalasi_Mahara
+
+https://wiki.mahara.org/wiki/System_Administrator%27s_Guide/Upgrading_Mahara
 	
