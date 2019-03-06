@@ -275,17 +275,25 @@ Selain melalui server ubuntu, instalasi dapat dilakukan langsung dengan XAMPP pa
 	Menyimpan semua yang dapat pengguna buat atau unggah untuk digunakan dalam portofolio. Semua informasi dan file yang diberikan di sini pada awalnya hanya dapat dilihat oleh pengguna. Kecuali nama pengguna dan foto profil Anda, keduanya terlihat oleh pengguna online jika diaktifkan. Nama tampilan Anda, tetapi bukan gambar profil Anda, juga terlihat di halaman profil Anda per default.
 Konten berisi foto profil, files, journal, resume, plans
 
+<img src="content.jpg">
+
 - Portofolio
 
 	Portofolio adalah tempat untuk mengumpulkan ‘artefak’ yang telah dikumpulkan pada halaman content. anda dapat memilih untuk membagikannya ke pengguna lain atau menyimpan untuk sendiri.
 Menu yang ada di portofolio antara lain pages, page editor, collections, share, export, feedback, feedback or assessment, dan tags.
+
+<img src="portofolio.jpg">
 
 - Groups
 
 	Group dapat digunakan untuk berkolaborasi sesama user, dapat digunakan untuk diskusi topik, membuat atau mengedit page bersama-sama, berbagi file, berbagi page, dan submit page.
 Menu yang terdapat di Groups antara lain mygroups, find groups, my friends, find friends, share page, dan topics.
 
+<img src="groups.jpg">
+
 - Administrasions
+
+<img src="administrations.jpg">
 
 - Fungsi-fungsi utama 
 
