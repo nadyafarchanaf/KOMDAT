@@ -198,13 +198,46 @@ Selain melalui server ubuntu, instalasi dapat dilakukan langsung pada website ma
 
 <h1 align="center"><img src="Capture.JPG"></h1>
 
-2. Klik tombol download mahara versi terbaru
-	 
-<img src="q.JPG">
+2. Klik tombol download mahara versi terbaru, lalu akan ke direct ke alamat website resmi [Mahara](https://launchpad.net/mahara/+download) laludownload file
+	  
+<h1 align="center"><img src="q.JPG"></h1>
 
 3. Silahkan tunggu sampai file download selesai
-4. 
 
+4. Extract file download yang sudah dilakukan
+
+5. Setelah di extract, terdapat folder dengan nama mahara-18.10.0, didalam folder tersebut terdapat folder htdocs. Masuklah kedalam isi dari folder htdocs tersebut, kemudian copy semua isi dari folder htdocs tersebut (Ctrl+A kemudian Ctrl+C).
+
+6. Masuklah ke alamat directory dimana xampp di install. Pada umumnya berada pada alamat directory C:\xampp\htdocs
+
+7. Di dalam C:\xampp\htdocs, buatlah folder baru dengan nama mahara
+
+8. Pada phpmyadmin, buatlah database baru dengan nama db_mahara dengan connection collation: utf8_bin. Setelah itu klik tombol Create. Lihat gambar dibawah ini:
+
+<h1 align="center"><img src="ss.JPG"></h>
+
+9. Cari file config-dist.php
+
+10. Buatlah duplikat dari file tersebut dengan nama config.php
+
+11. Edit file config.php seperti berikut:
+
+		$cfg->dbtype = 'mysql5'; 
+		$cfg->dbhost = 'localhost'; 
+		$cfg->dbport = null; 
+		$cfg->dbname = 'db_mahara'; 
+		$cfg->dbuser = 'root'; 
+		$cfg->dbpass = ''; 
+
+12. Kemudian carilah file php.ini pada alamat directory C:\xampp\php.
+
+13. Didalam file php.ini, carilah script berikut: extension=php_curl.dll. Hilangkan tanda titik koma (;) di awal script tersebut. Kemudian simpan (Ctrl+S)
+14. Setelah itu, jalankan web browser. Ketikkan alamat URL : http://localhost/mahara.
+
+15. Tunggu hingga semua komponen plugin terinstall semua
+
+16. Isikan password dan email, Kemudian klik Submit
+17. Kemudian tampil halaman seperti dibawah ini
 # **Cara Pemakaian**
 [`^ kembali ke atas ^`](#)
 
